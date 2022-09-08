@@ -1,4 +1,4 @@
-# Ransomeware_send_mail
+# Ransomeware - send - mail
 
 #### Thanks to this software, it encrypts all the files in the folder it is in when it is running and sends the key to you as an e-mail => ransome_ware_email.py
 
